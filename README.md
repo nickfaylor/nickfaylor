@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineering Student from Los Gatos, California.<br><br>- 🏫 Current 4th year student at San Jose State University.<br>- 🔭 Interested in becoming a thorough and complete engineer.<br>- 📚 I'm currently learning various web development skills, AI/ML techniques and cloud computing concepts.<br>- 🎸 In my free time I enjoy playing guitar and learning music theory.</p>
+<p align="left">I'm a Software Engineer from Los Gatos, California.<br><br>- 🏫 Graduated from San Jose State University with a BS in SE.<br>- 🔭 Committed to learning.<br></p>
 
 ###
 
